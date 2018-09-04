@@ -1,0 +1,8 @@
+* RyanHuen的私人Spacemacs配置：
+** 开启功能：
+   - org-mode使用Spacemacs默认的形态
+   - python关闭test-runner，同时没有开启自动补全(本人只用Spacemacs看python代码)
+   - ryanhuen配置项请参考以下地址：
+     - https://github.com/RyanHuen/ryanhuen-layer
+     - 这是我的私人layer，主要使用了xclips功能，让Spacemacs的复制粘贴和系统剪贴板关联，达到两者共享的作用
+   - auto-completion默认在org模式下关闭
